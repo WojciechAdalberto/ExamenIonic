@@ -1,5 +1,7 @@
 {
   "name": "FirebaseClase",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
